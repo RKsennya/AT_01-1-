@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Какой автомобиль водит Дин Винчестер?",
+    "type": "single",
+    "answers": [
+      { "text": "Chevrolet Impala", "correct": 1 },
+      { "text": "Ford Mustang", "correct": 0 },
+      { "text": "Dodge Charger", "correct": 0 },
+      { "text": "Pontiac Firebird", "correct": 0 }
+    ]
+  },
+  {
+    "question": "Как зовут ангела, который помогает братьям?",
+    "type": "single",
+    "answers": [
+      { "text": "Кастиэль", "correct": 1 },
+      { "text": "Люцифер", "correct": 0 },
+      { "text": "Гавриил", "correct": 0 },
+      { "text": "Рафаэль", "correct": 0 }
+    ]
+  },
+  {
+    "question": "Кто является отцом Сэма и Дина?",
+    "type": "single",
+    "answers": [
+      { "text": "Джон Винчестер", "correct": 1 },
+      { "text": "Бобби Сингер", "correct": 0 },
+      { "text": "Кроули", "correct": 0 },
+      { "text": "Руфус Тернер", "correct": 0 }
+    ]
+  },
+  {
+    "question": "Какие существа охотятся в сериале 'Сверхъестественное'?",
+    "type": "multiple",
+    "answers": [
+      { "text": "Призраки", "correct": 1 },
+      { "text": "Вампиры", "correct": 1 },
+      { "text": "Тролли", "correct": 0 },
+      { "text": "Зомби", "correct": 1 }
+    ]
+  },
+  {
+    "question": "Какие из этих предметов используются против демонов?",
+    "type": "multiple",
+    "answers": [
+      { "text": "Соляные круги", "correct": 1 },
+      { "text": "Святая вода", "correct": 1 },
+      { "text": "Амулеты", "correct": 0 },
+      { "text": "Дьявольская ловушка", "correct": 1 }
+    ]
+  },
+  {
+    "question": "Как называется книга, которая содержит заклинания и ритуалы?",
+    "type": "single",
+    "answers": [
+      { "text": "Книга Теней", "correct": 0 },
+      { "text": "Демонолог", "correct": 0 },
+      { "text": "Потусторонний путеводитель", "correct": 0 },
+      { "text": "Книга проклятых", "correct": 1 }
+    ]
+  },
+  {
+    "question": "Как звали демона, который уничтожал кольца всадников Апокалипсиса?",
+    "type": "single",
+    "answers": [
+      { "text": "Мег", "correct": 0 },
+      { "text": "Кроули", "correct": 1 },
+      { "text": "Лилит", "correct": 0 },
+      { "text": "Азазель", "correct": 0 }
+    ]
+  },
+  {
+    "question": "Кто такой Чак Ширли в сериале?",
+    "type": "single",
+    "answers": [
+      { "text": "Бог", "correct": 1 },
+      { "text": "Призрак", "correct": 0 },
+      { "text": "Писатель", "correct": 0 },
+      { "text": "Ангел", "correct": 0 }
+    ]
+  },
+  {
+    "question": "Кто является первым человеком, заключившим сделку с демоном?",
+    "type": "single",
+    "answers": [
+      { "text": "Сэм", "correct": 0 },
+      { "text": "Иоанн", "correct": 0 },
+      { "text": "Каин", "correct": 1 },
+      { "text": "Дин", "correct": 0 }
+    ]
+  },
+  {
+    "question": "Какой символ используется для защиты от зла?",
+    "type": "single",
+    "answers": [
+      { "text": "Пентаграмма", "correct": 1 },
+      { "text": "Крест", "correct": 0 },
+      { "text": "Сигил", "correct": 0 },
+      { "text": "Иероглиф", "correct": 0 }
+    ]
+  },
+  {
+    "question": "Как звали мать Сэма и Дина?",
+    "type": "single",
+    "answers": [
+      { "text": "Мэри", "correct": 1 },
+      { "text": "Джессика", "correct": 0 },
+      { "text": "Меган", "correct": 0 },
+      { "text": "Анна", "correct": 0 }
+    ]
+  },
+  {
+    "question": "Какое оружие называют 'Первым клинком'?",
+    "type": "single",
+    "answers": [
+      { "text": "Клинок Каина", "correct": 1 },
+      { "text": "Кол Лилит", "correct": 0 },
+      { "text": "Серп смерти", "correct": 0 },
+      { "text": "Кинжал охотника", "correct": 0 }
+    ]
+  },
+  {
+    "question": "Как зовут демона, ставшего королем ада?",
+    "type": "single",
+    "answers": [
+      { "text": "Кроули", "correct": 1 },
+      { "text": "Люцифер", "correct": 0 },
+      { "text": "Азазель", "correct": 0 },
+      { "text": "Рамиль", "correct": 0 }
+    ]
+  },
+  {
+    "question": "Как называется оружие, которое убивает ангелов?",
+    "type": "single",
+    "answers": [
+      { "text": "Ангельский клинок", "correct": 1 },
+      { "text": "Огненный меч", "correct": 0 },
+      { "text": "Серебряное копье", "correct": 0 },
+      { "text": "Коготь дьявола", "correct": 0 }
+    ]
+  },
+  {
+    "question": "Как называется демоническая ловушка?",
+    "type": "single",
+    "answers": [
+      { "text": "Дьявольская ловушка", "correct": 1 },
+      { "text": "Световой круг", "correct": 0 },
+      { "text": "Соляной круг", "correct": 0 },
+      { "text": "Круг силы", "correct": 0 }
+    ]
+  }
+]
